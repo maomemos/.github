@@ -1,0 +1,2 @@
+# .github
+Here is maomemos.
